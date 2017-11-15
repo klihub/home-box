@@ -1,0 +1,24 @@
+[submodule "bitbake"]
+	path = bitbake
+	url = git@github.com:openembedded/bitbake.git
+[submodule "openembedded-core"]
+	path = openembedded-core
+	url = git@github.com:openembedded/openembedded-core.git
+[submodule "meta-openembedded"]
+	path = meta-openembedded
+	url = git@github.com:openembedded/meta-openembedded.git
+[submodule "meta-alix"]
+	path = meta-alix
+	url = git@github.com:klihub/meta-alix.git
+	branch = devel/base
+	ignore = untracked
+[submodule "meta-homebox"]
+	path = meta-homebox
+	url = git@github.com:klihub/meta-homebox.git
+	branch = devel/base
+	ignore = untracked
+[submodule "meta-casync"]
+	path = meta-casync
+	url = git@github.com:klihub/meta-casync.git
+	branch = devel/base
+	ignore = untracked
